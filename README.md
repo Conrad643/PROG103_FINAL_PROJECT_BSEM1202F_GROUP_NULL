@@ -1,7 +1,9 @@
 # Sierra Leone Farm Crop & Cost Tracker
 **Course:** PROG103 – Principles of Structured Programming
 **Group:** BSEM1202F GROUP9
-**Student:** Conrad D.K Feika
+**Students:** Conrad D.K Feika 
+Mohamed Alieu Bah
+Philip F Mansaray
 
 ##  What it does
 A simple GUI tool built with Python + Tkinter. Farmers enter their costs, harvest amount and selling price — it automatically calculates total cost, revenue, and profit/loss.
